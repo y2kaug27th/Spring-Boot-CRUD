@@ -2,7 +2,6 @@ package com.chenpin.databaseDemo.dao.impl;
 
 import com.chenpin.databaseDemo.TestDataUtil;
 import com.chenpin.databaseDemo.dao.AuthorDao;
-import com.chenpin.databaseDemo.domain.Author;
 import com.chenpin.databaseDemo.domain.Book;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
